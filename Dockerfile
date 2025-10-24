@@ -6,4 +6,4 @@ COPY --chown=app:app . ./
 USER app
 CMD ["bash", "-c", "streamlit run main.py --server.port=$PORT"]
 
-# comment here for build
+# Deploy to abc-alexc/abc-demo ok
