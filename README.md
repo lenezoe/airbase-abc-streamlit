@@ -29,7 +29,8 @@ Specify the following environment variable if you wish to password protect the e
 PASSWORD=
 ```
 
-Note that if the environment variable is empty, the check is not enforced. end
+Note that if the environment variable is empty, the check is not enforced. 
+#
 
 In your python3 file, include the following to enforce password checks:
 
